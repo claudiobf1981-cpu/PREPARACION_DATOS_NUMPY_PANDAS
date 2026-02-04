@@ -1,0 +1,11 @@
+id,nombre_csv,edad_csv,ciudad_csv,total_compras_csv,monto_total_csv,nombre_excel,edad_excel,ciudad_excel,total_compras_excel,monto_total_excel,ticket_promedio,monto_norm
+1,Ana,25,Buenos Aires,5,2500,Ana,25.0,Buenos Aires,5,2500,500.0,0.6097560975609756
+2,Luis,34,Cordova,2,1200,Luis,34.0,Córdoba,2,1200,600.0,0.2926829268292683
+3,Carlos,45,Rosario,0,0,Carlos,45.0,Rosario,0,0,,0.0
+4,Marta,29,Mendoza,3,1800,Marta,29.0,Mendoza,3,1800,600.0,0.43902439024390244
+5,Jorge,31,La Plata,8,3200,Jorge,31.0,La Plata,8,3200,400.0,0.7804878048780488
+6,Luca,28,Salta,10,4100,Lucía,28.0,Salta,10,4100,410.0,1.0
+7,Pedro,33,Tucuman,1,400,Pedro,33.0,Tucumán,1,400,400.0,0.0975609756097561
+8,Sofia,33,Santa Fe,4,2100,Sofía,33.0,Santa Fe,4,2100,525.0,0.5121951219512195
+9,Diego,42,Neuquen,7,3300,Diego,42.0,Neuquén,7,3300,471.42857142857144,0.8048780487804879
+10,Valentina,30,Bahi­a Blanca,6,2950,Valentina,30.0,Bahía Blanca,6,2950,491.6666666666667,0.7195121951219512
